@@ -12,6 +12,15 @@
     color: black;
 }
 
+.formulario{
+    display: flex;
+    justify-content: center;
+    background-color: darkgoldenrod;
+    opacity: 0.85;
+    margin-top: 5%;
+    padding: 1%;
+}
+
 .secciones{
     background-color: darkgoldenrod;
     opacity: 0.85;
@@ -34,7 +43,7 @@ a:-webkit-any-link {
 
 .imgback{
     width: 100%;
-    height: 150%;
+    height: 250%;
     position: absolute;
     margin: 0%;
     padding: 0%;
